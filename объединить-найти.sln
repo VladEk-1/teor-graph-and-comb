@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "объединить-найти", "объединить-найти\объединить-найти.csproj", "{67739C53-4E5F-46D2-9627-438E188EAD50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67739C53-4E5F-46D2-9627-438E188EAD50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67739C53-4E5F-46D2-9627-438E188EAD50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67739C53-4E5F-46D2-9627-438E188EAD50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67739C53-4E5F-46D2-9627-438E188EAD50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3849824C-5E93-40FA-B230-8B7D93AF008A}
+	EndGlobalSection
+EndGlobal
