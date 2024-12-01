@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Дейкстра\Дейкстра\bin\Debug\Дейкстра.exe.config
+C:\Users\User\Desktop\Дейкстра\Дейкстра\bin\Debug\Дейкстра.exe
+C:\Users\User\Desktop\Дейкстра\Дейкстра\bin\Debug\Дейкстра.pdb
+C:\Users\User\Desktop\Дейкстра\Дейкстра\obj\Debug\Дейкстра.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Дейкстра\Дейкстра\obj\Debug\Дейкстра.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Дейкстра\Дейкстра\obj\Debug\Дейкстра.exe
+C:\Users\User\Desktop\Дейкстра\Дейкстра\obj\Debug\Дейкстра.pdb
