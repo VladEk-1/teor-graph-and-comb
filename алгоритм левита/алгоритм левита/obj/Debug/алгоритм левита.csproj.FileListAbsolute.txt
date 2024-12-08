@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\алгоритм левита\алгоритм левита\bin\Debug\алгоритм левита.exe.config
+C:\Users\User\Desktop\алгоритм левита\алгоритм левита\bin\Debug\алгоритм левита.exe
+C:\Users\User\Desktop\алгоритм левита\алгоритм левита\bin\Debug\алгоритм левита.pdb
+C:\Users\User\Desktop\алгоритм левита\алгоритм левита\obj\Debug\алгоритм левита.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\алгоритм левита\алгоритм левита\obj\Debug\алгоритм левита.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\алгоритм левита\алгоритм левита\obj\Debug\алгоритм левита.exe
+C:\Users\User\Desktop\алгоритм левита\алгоритм левита\obj\Debug\алгоритм левита.pdb
